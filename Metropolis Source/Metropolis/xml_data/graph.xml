@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<graph>
+	<vertex>
+		<st_id_from>1</st_id_from>
+		<st_id_to>2</st_id_to>
+		<time>1</time>
+		<show>1</show>
+	</vertex>
+</graph>

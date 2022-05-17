@@ -1,0 +1,27 @@
+Русский язык:
+
+Приветствую тебя, пользователь! для того, чтобы установить программу, нужно выполнить несколько простых действий:
+
+1) скачать данную папку в полном объеме себе на компьютер
+2) открыть папку "Components"
+3) найти файл "Metropolis" формата .exe
+4) запустить его
+
+ВНИМАНИЕ!!!
+Вы можете создать ярлык программы на рабочем столе, но данный .exe файл перемещать из папки "Components" нельзя! Это приведет к ошибкам при запуске. Также нельзя перемещать папку "Фото", иначе изображения станций не будут отображаться.
+
+
+////////////////////////////////////////
+
+
+English language:
+
+Greetings, user! in order to install the program, you need to do a few simple steps:
+
+1) download this folder in full to your computer
+2) open the "Components" folder
+3) find the file "Metropolis" with format .exe
+4) to run it
+
+ATTENTION!!!
+You can create a label of the program on your desktop, but this one .exe file cannot be moved from the "Components" folder! This will cause errors. Also, you cannot move the "Photos" folder, otherwise the station images will not be displayed.
